@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "teste@email.com",
+      "password": "123456"
+    }
+  ],
+  "informacoes": [
+    {
+      "id": 1,
+      "profilePic": "https://github.com/Elias-Neto.png",
+      "name": "Marcos Oliveira",
+      "office": "Software Developer",
+      "resume": "Tenho 20 anos e moro no Agreste de Pernambuco. Atualmente em busca da minha **primeira oportunidade** para poder atuar no área de Desenvolvimento de Software."
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 1,
+      "title": "",
+      "description": "",
+      "type": "",
+      "startYear": "",
+      "endYear": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "description": "",
+      "type": "",
+      "startYear": "",
+      "endYear": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "github": "",
+      "deploy": "",
+      "demonstration": "",
+      "description": ""
+    }
+  ]
+}
